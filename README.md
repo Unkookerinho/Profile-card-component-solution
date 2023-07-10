@@ -8,5 +8,5 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL:
-- Live Site URL:
+- Solution URL: https://www.frontendmentor.io/solutions/profile-card-component-solution-632DG_yDEK
+- Live Site URL: https://unkookerinho.github.io/Profile-card-component-solution/
